@@ -14,14 +14,23 @@
   <g>
     <rect class="cls-2" x=".5" y=".5" width="1124" height="2435"/>
     <path class="cls-1" d="M1124,1v2434H1V1h1123M1125,0H0v2436h1125V0h0Z"/>
+    <foreignObject x=".5" y=".5" width="1124" height="2435">
+            <img width="100%" height="100%" src="./gifs/gif1.gif" alt="">
+          </foreignObject>
   </g>
   <g>
     <rect class="cls-2" x="224.5" y="856.5" width="675" height="675"/>
     <path class="cls-1" d="M899,857v674H225v-674h674M900,856H224v676h676v-676h0Z"/>
+    <foreignObject x="224.5" y="856.5" width="675" height="675">
+            <img width="100%" height="100%" src="./gifs/gif2.gif" alt="">
+          </foreignObject>
   </g>
   <g>
     <rect class="cls-2" x="224.5" y="1567.5" width="675" height="675"/>
     <path class="cls-1" d="M899,1568v674H225v-674h674M900,1567H224v676h676v-676h0Z"/>
+     <foreignObject x="224.5" y="1567.5" width="675" height="675">
+            <img width="100%" height="100%" src="./gifs/gif3.gif" alt="">
+          </foreignObject>
   </g>
   <g>
     <rect class="cls-2" x="224.5" y="145.5" width="675" height="675"/>
